@@ -4,33 +4,31 @@
 |-------|---------|
 | [![CI](https://github.com/keiyoushi/extensions-source/actions/workflows/build_push.yml/badge.svg)](https://github.com/keiyoushi/extensions-source/actions/workflows/build_push.yml) | [![Discord](https://img.shields.io/discord/1193460528052453448.svg?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/3FbCpdKbdY) |
 
-# Usage
+## Source Code
 
-https://github.com/keiyoushi/extensions/blob/main/README.md
+https://github.com/keiyoushi/extensions-source
 
-# Contributing
+## Report issues
 
-Contributions are welcome!
+https://github.com/keiyoushi/extensions-source/issues/new/choose
 
-Check out the repo's [issue backlog](https://github.com/keiyoushi/extensions-source/issues) for source requests and bug reports.
+## Guide
 
-## License
+### One-click installation
+One-click installation is only supported by these Tachiyomi versions:
+- Tachiyomi v0.15.2+
+- Tachiyomi Preview r6404+
+- TachiyomiSY v1.10.0+
+- TachiyomiSY Preview r539+
+- Aniyomi Preview r7443+
 
-    Copyright 2015 Javier Tomás
+Navigate to [the website](https://keiyoushi.github.io/extensions) and tap "Add to Tachiyomi", then restart the app.
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+### TachiyomiAZ
+1. Go to Settings → Browse
+2. Tap on "Edit repos" and then "+" button at bottom
+3. Input `keiyoushi/extensions`
+4. Enjoy!
 
-    http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-
-## Disclaimer
-
-This project is not affiliated with Tachiyomi. Don't ask for help about these extensions at the official support means of Tachiyomi. All credits to the codebase goes to the original contributors.
-
+# Others
+If you're not using any of the above fork then manually download and update extensions from [the listing page](https://keiyoushi.github.io/extensions/extensions)
